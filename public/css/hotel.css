@@ -1,0 +1,114 @@
+#money{
+    font-size: 1.5em;
+    font-weight: bold;
+    color: rgb(249, 109, 1);
+    float: right;
+}
+#bookbtn{
+    margin-top: 2em;
+}
+.btnAddCart{
+    width: 100%;
+    background-color: #d6b244;
+    color: white;
+    border-radius: 10px;
+    font-weight: bolder;
+}
+
+.btnOutOfRoom{
+    width: 100%;
+    background-color: gray;
+    color: white;
+    border-radius: 10px;
+    font-weight: bolder;
+}
+.btnAddCart:hover{
+    
+    color: white;
+    background-color: #1FAA59
+}
+body{
+    background-color: #e6eaed;
+}
+.searchBar{
+    margin-top: 20px;
+}
+.hotel-info{
+    padding-top: 0px;
+}
+.hotel-name-index{
+    font-family: 'Raleway', sans-serif;
+    font-size: 20px;
+}
+.hotel-name-detail{
+    font-family: 'Raleway', sans-serif;
+    
+}
+.create-form-container{
+    margin-top: 20px;
+    padding: 0 0px 20px 0px;
+}
+.divide-bar{
+    height: 80px;
+    width: 100%;
+}
+.room-type-warpper{
+    /* margin-top: 50px; */
+}
+.btn-search{
+    background-color: white;
+}
+.btn-search:hover{
+    background-color: #ecd45a;
+}
+.pictrure{
+    width: 100%;
+    height: 40vw;
+    max-height: 250px;
+    object-fit: cover;
+}
+.ajs-message.ajs-custom {
+    color: #ffffff;
+    /* background-color: #d9edf7;   */
+    background: rgba(91, 189, 114, 0.95);
+    border-color: #31708f;
+}
+.admin-button-group{
+    padding: 0 0 20px 20px;
+}
+.admin-button{
+    margin: 0 10px 10px 10px;
+}
+.sub-title-warpper {
+    background-color: #ecd45a;
+    -webkit-border-radius: 25px;
+    padding: 5px;
+}
+.blue-bar{
+    height: 15px;
+    width: 100%;
+    background-color: #3944F7;
+    margin-bottom: 20px;
+}
+.green-bar{
+    height: 15px;
+    width: 100%;
+    background-color: #28a745;
+    margin-bottom: 20px;   
+}
+.title-top-hotel{
+    color: black;
+    margin: 0px 0px 20px 0px;
+    padding: 5px 20px 0px 20px;
+    background-color: red;
+    font-size: 30px;
+    font-family: 'Roboto', sans-serif;
+    color: white;
+}
+.card{
+    padding-left: 0px;
+    padding-right: 0px;
+}
+.btn-link:hover{
+    text-decoration: none;
+}

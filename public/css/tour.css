@@ -1,0 +1,156 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@500&display=swap');
+body{
+    background-color: #e6eaed;
+}
+.ajs-message.ajs-custom {
+    color: #ffffff;
+    /* background-color: #d9edf7;   */
+    background: rgba(91, 189, 114, 0.95);
+    border-color: #31708f; 
+}
+.searchBar{
+    margin-top: 20px;
+}
+.btn-search{
+    background-color: white;
+}
+.btn-search:hover{
+    background-color: #ecd45a;
+}
+.tour-info{
+    padding-top: 0px;
+}
+#money{
+    font-size: 1.5em;
+    font-weight: bold;
+    color: rgb(249, 109, 1);
+    float: right;
+}
+.pictrure{
+    width: 100%;
+    height: 40vw;
+    max-height: 250px;
+    object-fit: cover;
+}
+.make-me-sticky {
+    position: -webkit-sticky;
+    position: sticky;
+    top: 10px;
+}
+
+.money-detail {
+    font-family: 'Secular One', sans-serif;
+    font-size: 30px;
+    color: red;
+}
+
+.price-button {
+    background-color: #ecd45a;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    border-radius: 8px;
+}
+
+.btnAddCart {
+    width: 100%;
+    background-color: #d6b244;
+    color: white;
+    border-radius: 20px;
+    font-weight: bolder;
+}
+
+.btnAddCart:hover {
+
+    color: white;
+    background-color: #1FAA59
+}
+
+.sub-title-warpper {
+    background-color: #ecd45a;
+    -webkit-border-radius: 25px;
+    padding: 5px;
+}
+
+.day-number {
+    float: left;
+    background-color: #d6b244;
+    font-size: 17px;
+    height: 100%;
+    width: 80px;
+    align-items: center;
+    text-align: center;
+    font-weight: 500;
+    display: flex;
+    -webkit-border-radius: 25px;
+    margin-right: 20px;
+
+}
+
+
+.sub-title {
+    height: 100%;
+
+}
+
+.subtrip-content {
+    margin-bottom: 20px;
+    margin-top: 15px;
+}
+
+.phone-number {
+    font-size: 30px;
+    color: red;
+    margin-left: 10px;
+}
+.contain-wrapper{
+    max-width: 1500px;
+    padding: 25px;
+}
+/* ckeditor */
+.cke_reset{
+    width: 100%;
+}
+
+
+
+.admin-button-group{
+    padding: 0 0 20px 20px;
+}
+.admin-button{
+    margin: 0 10px 10px 10px;
+}
+.create-form-container{
+    margin-top: 20px;
+    padding: 0 0px 20px 0px;
+}
+.blue-bar{
+    height: 15px;
+    width: 100%;
+    background-color: #3944F7;
+    margin-bottom: 20px;
+}
+.green-bar{
+    height: 15px;
+    width: 100%;
+    background-color: #28a745;
+    margin-bottom: 20px;   
+}
+.tour-name{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 20px;
+}
+
+.card{
+    padding-left: 0px;
+    padding-right: 0px;
+}
+.title-top-tour{
+    color: black;
+    margin: 0px 0px 20px 0px;
+    padding: 5px 20px 0px 20px;
+    background-color: red;
+    font-size: 30px;
+    font-family: 'Roboto', sans-serif;
+    color: white;
+}

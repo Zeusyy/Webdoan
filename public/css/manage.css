@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik:wght@600&display=swap');
+
+body{
+    background-color: #e6eaed ;
+}
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.contain-wrapper{
+    margin-top:20px;
+    padding: 20px;
+}
+.table td, .table th{
+    vertical-align: middle;
+}
+.receiptID{
+    font-family: 'Rubik', sans-serif;
+    font-size: 20px;
+    color: #fa6400;
+}

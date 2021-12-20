@@ -1,0 +1,97 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background-color: #e6eaed;
+}
+.wrapper{
+    margin-top: 20px;
+    padding-top:20px;
+    padding-bottom:20px;
+    max-width: 1200px;
+}
+.thumbnail{
+    width: 100%;
+    
+    
+}
+.btn-readmore{
+    background-color: #ecd45a;
+    padding: 10px;
+}
+.info ,.abstract{
+    color: #758283;
+}
+
+.title{
+    font-size: 25px;
+    font-family: 'Fira Sans', sans-serif;
+}
+.article-wrapper{
+    margin: 0px 0px 40px 0px;
+}
+a:hover{
+    text-decoration: none;
+    color: #000;
+}
+a{
+    color: black;
+}
+.dot {
+    height: 5px;
+    width: 5px;
+    background-color: #758283;
+    border-radius: 50%;
+    display: inline-block;
+    margin-left: 15px;
+    margin-right: 15px;
+  }
+.searchBar{
+    margin-top: 20px;
+}
+
+.btn-search{
+    background-color: white;
+}
+.btn-search:hover{
+    background-color: #ecd45a;
+}
+
+/* detail site */
+
+.detail-title{
+    font-family: 'Roboto Slab', serif;
+    
+    font-size: 30px;
+}
+.main-image{
+    margin: 20px 0 20px 0;
+}
+.admin-button-group{
+    padding: 0 0 20px 20px;
+}
+.admin-button{
+    margin: 0 10px 10px 10px;
+}
+
+/* create site */
+.sub-title-warpper {
+    background-color: #ecd45a;
+    -webkit-border-radius: 25px;
+    padding: 5px;
+}
+.create-form-container{
+    margin-top: 20px;
+    padding: 0 0px 20px 0px;
+}
+.blue-bar{
+    height: 15px;
+    width: 100%;
+    background-color: #3944F7;
+    margin-bottom: 20px;
+}
+.green-bar{
+    height: 15px;
+    width: 100%;
+    background-color: #28a745;
+    margin-bottom: 20px;   
+}
